@@ -1,0 +1,13 @@
+
+.quarto/
+.env
+.Rprofile
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.luarc.json
+_publish.yml
+
+
+/.quarto/

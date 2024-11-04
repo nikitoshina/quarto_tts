@@ -1,0 +1,17 @@
+project:
+  type: book
+  output-dir: _output
+
+filters:
+  - quarto_tts
+
+add_tts: true
+voice_id: 9Ft9sm9dzvprPILZmLJl
+
+format: html
+
+book:
+  chapters:
+    - index.qmd
+    - second_page.qmd
+    - skip.qmd

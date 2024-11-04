@@ -1,0 +1,8 @@
+title: Quarto TTS
+author: Nikita Tkachenko
+version: 1.0.0
+quarto-required: ">=1.2.0"
+contributes:
+  filters:
+    - add_meta.lua
+    - translate.py

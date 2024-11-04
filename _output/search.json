@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Markdown Document",
+    "section": "",
+    "text": "1 My Markdown Document",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>My Markdown Document</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "My Markdown Document",
+    "section": "1.1 Introduction",
+    "text": "1.1 Introduction\nThis is a simple Markdown document that demonstrates the basic syntax used for styling text.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>My Markdown Document</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#formatting-text",
+    "href": "index.html#formatting-text",
+    "title": "My Markdown Document",
+    "section": "1.2 Formatting Text",
+    "text": "1.2 Formatting Text\n\nBold: Use **text** or __text__ for bold text.\nItalic: Use *text* or _text_ for italic text.\nStrikethrough: Use ~~text~~ for strikethrough text.\n\n\n1.2.1 Code Blocks\nYou can create code blocks using backticks:\nprint(\"Hello, World!\")\nLists\nUnordered List:\n\nItem 1\nItem 2\nSubitem 2.1\nSubitem 2.2\n\nOrdered List:\n\nStep 1\nStep 2\nStep 3\n\nLinks and Images\nYou can add links and images:\nBlockquotes\n\nThis is a blockquote, often used to highlight important text or quotes.\n\nTables\n\n\n\nColumn 1\nColumn 2\nColumn 3\n\n\n\n\nValue 1\nValue 2\nValue 3\n\n\nValue 4\nValue 5\nValue 6",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>My Markdown Document</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#conclusion",
+    "href": "index.html#conclusion",
+    "title": "My Markdown Document",
+    "section": "1.3 Conclusion",
+    "text": "1.3 Conclusion\nMarkdown is a lightweight and easy-to-use syntax for styling text. It’s great for writing documentation, creating simple web pages, and more!\nThis example covers headings, text formatting, code blocks, lists, links, images, blockquotes, and tables. Let me know if you need something more specific!\n\n\n\n    \n        \n        Your browser does not support the audio element.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>My Markdown Document</span>"
+    ]
+  },
+  {
+    "objectID": "second_page.html",
+    "href": "second_page.html",
+    "title": "2  Analysis of the MTCars Dataset",
+    "section": "",
+    "text": "2.1 Conclusion\nThis analysis highlights how the number of cylinders and the weight of a car impact its fuel efficiency, as observed in the mtcars dataset.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Analysis of the MTCars Dataset</span>"
+    ]
+  },
+  {
+    "objectID": "second_page.html#conclusion",
+    "href": "second_page.html#conclusion",
+    "title": "2  Analysis of the MTCars Dataset",
+    "section": "",
+    "text": "Your browser does not support the audio element.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Analysis of the MTCars Dataset</span>"
+    ]
+  },
+  {
+    "objectID": "skip.html",
+    "href": "skip.html",
+    "title": "3  Skip",
+    "section": "",
+    "text": "This page should not have TTS added to it.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Skip</span>"
+    ]
+  }
+]
