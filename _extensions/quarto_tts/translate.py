@@ -218,7 +218,10 @@ def prepare_tts(tsv_path, audio_path, js_path, audio_output_path, voice_id="9Ft9
     <style>
     .highlight, .pre-highlight, .post-highlight {{
         border-radius: 3px;
-        transition: all 0.3s ease-in-out;
+    }}
+
+    .pre-highlight, .post-highlight {{
+        transition: all 0.3s ease-out;
     }}
 
     #audioPlayer {{
@@ -232,6 +235,7 @@ def prepare_tts(tsv_path, audio_path, js_path, audio_output_path, voice_id="9Ft9
 
     .highlight {{
         background-color: lightblue;
+        transition: none;
     }}
     .pre-highlight, .post-highlight {{
         background-color: lightgreen;
